@@ -1,0 +1,6 @@
+[submodule "spring-boot-immutables-mongo"]
+	path = spring-boot-immutables-mongo
+	url = ../spring-boot-immutables-mongo.git
+[submodule "spring-boot-immutables-jackson"]
+	path = spring-boot-immutables-jackson
+	url = ../spring-boot-immutables-jackson.git
